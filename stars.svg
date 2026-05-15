@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 36" width="576" height="36">
+
+  <!-- Star 1 - pink -->
+  <path d="M18,5 C18,5 19.5,11 22.5,13.5 C25.5,16 31,15.5 31,15.5 C31,15.5 26.5,18.5 25.5,22 C24.5,25.5 26.5,31 26.5,31 C26.5,31 22,27.5 18,27.5 C14,27.5 9.5,31 9.5,31 C9.5,31 11.5,25.5 10.5,22 C9.5,18.5 5,15.5 5,15.5 C5,15.5 10.5,16 13.5,13.5 C16.5,11 18,5 18,5 Z" fill="none" stroke="#FF1493" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Circle 1 - yellow -->
+  <circle cx="49" cy="18" r="8" fill="none" stroke="#FFD700" stroke-width="1.8"/>
+
+  <!-- Star 2 - yellow -->
+  <path d="M80,5 C80,5 81.5,11 84.5,13.5 C87.5,16 93,15.5 93,15.5 C93,15.5 88.5,18.5 87.5,22 C86.5,25.5 88.5,31 88.5,31 C88.5,31 84,27.5 80,27.5 C76,27.5 71.5,31 71.5,31 C71.5,31 73.5,25.5 72.5,22 C71.5,18.5 67,15.5 67,15.5 C67,15.5 72.5,16 75.5,13.5 C78.5,11 80,5 80,5 Z" fill="none" stroke="#FFD700" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Circle 2 - pink -->
+  <circle cx="111" cy="18" r="8" fill="none" stroke="#FF1493" stroke-width="1.8"/>
+
+  <!-- Star 3 - pink -->
+  <path d="M142,5 C142,5 143.5,11 146.5,13.5 C149.5,16 155,15.5 155,15.5 C155,15.5 150.5,18.5 149.5,22 C148.5,25.5 150.5,31 150.5,31 C150.5,31 146,27.5 142,27.5 C138,27.5 133.5,31 133.5,31 C133.5,31 135.5,25.5 134.5,22 C133.5,18.5 129,15.5 129,15.5 C129,15.5 134.5,16 137.5,13.5 C140.5,11 142,5 142,5 Z" fill="none" stroke="#FF1493" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Circle 3 - yellow -->
+  <circle cx="173" cy="18" r="8" fill="none" stroke="#FFD700" stroke-width="1.8"/>
+
+  <!-- Star 4 - yellow -->
+  <path d="M204,5 C204,5 205.5,11 208.5,13.5 C211.5,16 217,15.5 217,15.5 C217,15.5 212.5,18.5 211.5,22 C210.5,25.5 212.5,31 212.5,31 C212.5,31 208,27.5 204,27.5 C200,27.5 195.5,31 195.5,31 C195.5,31 197.5,25.5 196.5,22 C195.5,18.5 191,15.5 191,15.5 C191,15.5 196.5,16 199.5,13.5 C202.5,11 204,5 204,5 Z" fill="none" stroke="#FFD700" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Circle 4 - pink -->
+  <circle cx="235" cy="18" r="8" fill="none" stroke="#FF1493" stroke-width="1.8"/>
+
+  <!-- Star 5 center - pink -->
+  <path d="M266,5 C266,5 267.5,11 270.5,13.5 C273.5,16 279,15.5 279,15.5 C279,15.5 274.5,18.5 273.5,22 C272.5,25.5 274.5,31 274.5,31 C274.5,31 270,27.5 266,27.5 C262,27.5 257.5,31 257.5,31 C257.5,31 259.5,25.5 258.5,22 C257.5,18.5 253,15.5 253,15.5 C253,15.5 258.5,16 261.5,13.5 C264.5,11 266,5 266,5 Z" fill="none" stroke="#FF1493" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Circle 5 - yellow -->
+  <circle cx="297" cy="18" r="8" fill="none" stroke="#FFD700" stroke-width="1.8"/>
+
+  <!-- Star 6 - yellow -->
+  <path d="M328,5 C328,5 329.5,11 332.5,13.5 C335.5,16 341,15.5 341,15.5 C341,15.5 336.5,18.5 335.5,22 C334.5,25.5 336.5,31 336.5,31 C336.5,31 332,27.5 328,27.5 C324,27.5 319.5,31 319.5,31 C319.5,31 321.5,25.5 320.5,22 C319.5,18.5 315,15.5 315,15.5 C315,15.5 320.5,16 323.5,13.5 C326.5,11 328,5 328,5 Z" fill="none" stroke="#FFD700" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Circle 6 - pink -->
+  <circle cx="359" cy="18" r="8" fill="none" stroke="#FF1493" stroke-width="1.8"/>
+
+  <!-- Star 7 - pink -->
+  <path d="M390,5 C390,5 391.5,11 394.5,13.5 C397.5,16 403,15.5 403,15.5 C403,15.5 398.5,18.5 397.5,22 C396.5,25.5 398.5,31 398.5,31 C398.5,31 394,27.5 390,27.5 C386,27.5 381.5,31 381.5,31 C381.5,31 383.5,25.5 382.5,22 C381.5,18.5 377,15.5 377,15.5 C377,15.5 382.5,16 385.5,13.5 C388.5,11 390,5 390,5 Z" fill="none" stroke="#FF1493" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Circle 7 - yellow -->
+  <circle cx="421" cy="18" r="8" fill="none" stroke="#FFD700" stroke-width="1.8"/>
+
+  <!-- Star 8 - yellow -->
+  <path d="M452,5 C452,5 453.5,11 456.5,13.5 C459.5,16 465,15.5 465,15.5 C465,15.5 460.5,18.5 459.5,22 C458.5,25.5 460.5,31 460.5,31 C460.5,31 456,27.5 452,27.5 C448,27.5 443.5,31 443.5,31 C443.5,31 445.5,25.5 444.5,22 C443.5,18.5 439,15.5 439,15.5 C439,15.5 444.5,16 447.5,13.5 C450.5,11 452,5 452,5 Z" fill="none" stroke="#FFD700" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Circle 8 - pink -->
+  <circle cx="483" cy="18" r="8" fill="none" stroke="#FF1493" stroke-width="1.8"/>
+
+  <!-- Star 9 - pink -->
+  <path d="M514,5 C514,5 515.5,11 518.5,13.5 C521.5,16 527,15.5 527,15.5 C527,15.5 522.5,18.5 521.5,22 C520.5,25.5 522.5,31 522.5,31 C522.5,31 518,27.5 514,27.5 C510,27.5 505.5,31 505.5,31 C505.5,31 507.5,25.5 506.5,22 C505.5,18.5 501,15.5 501,15.5 C501,15.5 506.5,16 509.5,13.5 C512.5,11 514,5 514,5 Z" fill="none" stroke="#FF1493" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Circle 9 - yellow -->
+  <circle cx="555" cy="18" r="8" fill="none" stroke="#FFD700" stroke-width="1.8"/>
+
+</svg>
